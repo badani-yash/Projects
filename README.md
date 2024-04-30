@@ -8,7 +8,7 @@ Welcome to my GitHub Projects repository! Here you'll find a collection of my wo
 An interactive web application built using Streamlit that showcases real-time data analytics. This project demonstrates dynamic data visualization capabilities in a user-friendly web app format.
 
 ### [Heart Attack Predictor Application](https://github.com/badani-yash/Projects/Heart_Attack_Predictor_Application)
-Developed a machine learning model to predict heart attack risks based on patient data. This application uses Python and Scikit-Learn for predictive modeling, focusing on accuracy and preventive healthcare insights.
+Developed a machine learning model to predict heart attack risks based on patient data. This application uses Python, Streamlit and Scikit-Learn for predictive modeling, focusing on accuracy and preventive healthcare insights.
 
 ### [Hospital Database Development Cycle](https://github.com/badani-yash/Projects/Hospital_Database_Development_Cycle)
 End-to-end design and implementation of a hospital management database system using SQL. This project includes ER design, database development, and the deployment of BI dashboards in Power BI for healthcare decision support.
@@ -26,12 +26,14 @@ An analytical tool developed to predict and visualize urban traffic collision da
 
 - Power BI
 - Tableau
+- Talend
 - HTML
 - Jupyter Notebook
 - Python
 - SQL
 - TensorFlow
 - Streamlit
+- Java
 
 ## Contact Me
 
