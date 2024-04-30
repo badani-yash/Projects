@@ -1,4 +1,4 @@
-#Yash Badani's Projects Portfolio
+# Yash Badani's Projects Portfolio
 
 Welcome to my GitHub Projects repository! Here you'll find a collection of my work demonstrating skills in data science, analytics, and software development. Each project showcases my ability to design, implement, and manage applications and data systems.
 
