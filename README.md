@@ -22,6 +22,9 @@ Utilized AutoML and advanced ensemble techniques to predict the popularity of Sp
 ### [Urban Traffic Collision Analysis Project](https://github.com/badani-yash/Projects/Urban_Traffic_Collision_Analysis_Project)
 An analytical tool developed to predict and visualize urban traffic collision data, aiding in city planning and safety improvements. This project involves data integration and BI dashboard creation using Power BI and Tableau for actionable insights.
 
+### [Integrated University Management System](https://github.com/badani-yash/Projects/Integrated University Management System)
+A comprehensive University Management System designed to integrate roles and operations across universities, police, banks, and cafes, enhancing coordination and data management
+
 ## Technologies Used
 
 - Power BI
